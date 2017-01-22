@@ -1,0 +1,71 @@
+$date
+     Mar 28, 2014       10:12:40
+$end
+
+$version
+              SystemC 2.3.0-ASI --- Mar 14 2014 13:28:45
+$end
+
+$timescale
+     1 ps
+$end
+
+$scope module SystemC $end
+$var real    1  aaa  data       $end
+$var real    1  aab  result       $end
+$upscope $end
+$enddefinitions  $end
+
+$comment
+All initial values are dumped below at time 0 sec = 0 timescale units.
+$end
+
+$dumpvars
+r0 aaa
+r0 aab
+$end
+
+#8000
+r1 aaa
+r9 aab
+
+#9000
+r17 aab
+
+#10000
+r24 aab
+
+#11000
+r30 aab
+
+#12000
+r35 aab
+
+#13000
+r0 aaa
+r30 aab
+
+#14000
+r25 aab
+
+#15000
+r20 aab
+
+#16000
+r15 aab
+
+#17000
+r10 aab
+
+#18000
+r6 aab
+
+#19000
+r3 aab
+
+#20000
+r1 aab
+
+#21000
+r0 aab
+
